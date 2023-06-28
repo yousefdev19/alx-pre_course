@@ -1,2 +1,2 @@
 My first readme
-and this is update to my first readme.
+and this is up date to my first readme.
